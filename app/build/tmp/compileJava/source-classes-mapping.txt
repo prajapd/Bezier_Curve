@@ -1,0 +1,14 @@
+BezierCurve/Coordinates.java
+ BezierCurve.Coordinates
+BezierCurve/Drawing.java
+ BezierCurve.Drawing
+BezierCurve/Curve.java
+ BezierCurve.Curve
+BezierCurve/AllDrawings.java
+ BezierCurve.AllDrawings
+BezierCurve/ControlPoint.java
+ BezierCurve.ControlPoint
+BezierCurve/SegmentPoint.java
+ BezierCurve.SegmentPoint
+BezierCurve/BezierCurve.java
+ BezierCurve.BezierCurve
